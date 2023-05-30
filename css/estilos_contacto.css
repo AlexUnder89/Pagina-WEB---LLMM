@@ -57,7 +57,7 @@ legend{
 
 #div_main{
 	width: 100vw;
-	background-color: #E1EEDD;
+	background-color: #df882449;
 	padding-bottom: 70px;
 	
 }
@@ -70,7 +70,7 @@ legend{
 	font-size: 25px;
 	margin: auto;
 	display: block;
-	background-color: #E1EEDD;
+
 
 }
 
@@ -78,7 +78,7 @@ legend{
 	padding-top: 30px;
 	padding-bottom: 30px;
 	width: 80vw;
-	background-color: #c0ff97;
+	background-color: #e1eed8;
 	margin: auto;
 	display: block;
 }
@@ -87,7 +87,7 @@ legend{
 	padding-top: 30px;
 	padding-bottom: 30px;
 	width: 80vw;
-	background-color: #c0ff97;
+	background-color:#e1eed8;
 	margin: auto;
 	display: block;
 } 
