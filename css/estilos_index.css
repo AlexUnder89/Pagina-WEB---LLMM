@@ -1,0 +1,69 @@
+main{
+    background-color:#E1EEDD;
+    font-family: 'Times New Roman', Times, serif;
+    ;    
+}
+
+.p_main, div > ul > p{
+    font-size: 20px;
+}
+
+h2{
+    color: rgb(58, 58, 75);
+    font-size: 35px;
+    text-shadow: 2px 2px rgb(152, 204, 157);
+    text-decoration:underline;
+    text-decoration-color: rgb(25, 25, 24);
+}
+
+#img_dibujo{
+    width: 600px;
+    height: auto;
+    border-radius: 50%;
+    padding-bottom: 15px;
+    
+}
+
+main >div>ul>li{
+    color:#8a340c;
+    text-decoration: underline;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#div_main{
+    text-align:center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#lista{
+    list-style-type: disc;
+    margin-left: 50px;
+    text-align: start;
+    font-weight: 300;
+}
+
+/*colores iconos font-awsome*/
+.fa-landmark{
+    color: blue;
+}
+.fa-book{
+    color:dimgray;
+}
+.fa-eye{
+    color:#d98719;
+}
+.fa-route{
+    color:olivedrab;
+}
+.fa-money-bill-1-wave{
+    color:green
+}
+.fa-heart{
+    color: red;
+}
+.fa-solid{
+    height: 25px;
+    width: 25px;
+}

@@ -1,0 +1,123 @@
+
+
+.div_principal{
+    width: 95vw;
+    height: 350px;
+    background-color:antiquewhite;
+    margin: auto;
+    display: block;
+}
+
+.div_texto{
+    width: 50vw;
+    height: 350px;
+    background-color:rgba(163, 191, 214, 0.203);
+    float: left;
+    text-align: start;
+    justify-content: center;
+}
+
+main > div > div >div > h2{
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 30px;
+    color: brown;
+}
+
+main > div > div > div > p{
+    margin-left: 25px;
+    font-size: 19.5px;
+    text-align:justify;
+    padding-right: 10px;
+
+}
+
+.div_img{
+    width: 45vw;
+    height: 350px;
+    background-color: rgba(39, 42, 224, 0.139);
+    float: left;
+    margin: auto;
+    display: block;
+}
+
+.img_atraccion{
+    width: 480px;
+    height: auto;
+    margin:auto;
+    display: block;
+    padding-top:9px;
+}
+
+.parrafo_imagen{
+    font-size: 11px;
+    color: rgb(73, 82, 90);
+    text-align: center;
+    padding-top: 2px;
+}
+
+main{
+    background-color:rgb(86, 83, 80);
+}
+
+#div_principal{
+    width: 95vw;
+    height: 410px;
+    background-color:antiquewhite;
+    margin: auto;
+    display: block;
+    padding-bottom: 20px;
+}
+
+#div_parrafo{
+    width: 40vw;
+    height: 420px;
+    float: left;
+    font-size: 20px;
+    text-align:justify;
+;
+   
+}
+
+#div_img_rel{
+    width: 40vw;
+    height: 120px;
+    margin: auto;
+    display:block;
+} 
+
+#div_iframe{
+    width: 55vw;
+    height: 400px;
+    float: left;
+}
+#parrafo_inicial{
+    padding-bottom: 20px;
+    margin-left: 40px;
+    padding-right: 10px;
+}
+iframe{
+    width:600;
+    height:360px;
+    margin:auto;
+    display: block;
+}
+.tres_culturas{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 30px;
+    color: brown;
+}
+
+#img_religiones{
+    width: auto;
+    height: 100px;
+    margin: auto;
+    display: block;
+}
+
+#titulo2{
+    font-size: 35px;
+    color: rgb(179, 205, 184);
+}

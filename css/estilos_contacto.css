@@ -1,0 +1,144 @@
+form {
+	width:40%;
+	margin:20px;
+	padding:20px;
+	margin: auto;
+	display: block;
+	background-color: white;
+}
+
+.label {
+	font-size:12px;
+	display:block;
+	width:100%;
+}
+textarea{
+	resize:vertical;
+	max-height:300px;
+	min-height:100px;
+}
+
+.input, textarea {
+	margin-bottom:20px;
+	width:100%;
+	padding:10px;
+	box-sizing:border-box;
+	border:1px solid #ccc;
+}
+
+input:focus, textarea:focus{
+	border:1px solid #1668c4;
+}
+input[type="submit"] {
+	margin-bottom:0;
+	background:#1668c4;
+	color:#fff;
+	border:none;
+}
+input[type="submit"]:hover {
+	background:#4a88f4;
+	cursor:pointer;
+}
+
+fieldset{
+	margin:20px;
+	padding:20px;
+	border:1px solid #ccc; 
+}
+
+legend{
+	text-align: center;
+}
+
+#condiciones{
+	align-items: start;
+	padding: 20px;
+}
+
+#div_main{
+	width: 100vw;
+	background-color: #E1EEDD;
+	padding-bottom: 70px;
+	
+}
+
+#div_titulo{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	width: 80vw;
+	text-align: center;
+	font-size: 25px;
+	margin: auto;
+	display: block;
+	background-color: #E1EEDD;
+
+}
+
+#div_info{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	width: 80vw;
+	background-color: #c0ff97;
+	margin: auto;
+	display: block;
+}
+
+#div_form{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	width: 80vw;
+	background-color: #c0ff97;
+	margin: auto;
+	display: block;
+} 
+
+div > main > div > p{
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: justify;
+	font-size: 20px;
+}
+
+#div_contacto{
+	padding-top: 30px;
+	width: 30vw;
+	margin: auto;
+	display: block;
+}
+
+.p_contacto{
+	text-align: center;
+}
+
+.fa-map-location{
+	color: green;
+	font-size: 30px;
+	padding-right: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 30px;
+}
+
+.fa-phone-volume{
+	color:#1668c4;
+	font-size: 30px;
+	padding-right: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.fa-envelope{
+	color:gray;
+	font-size: 30px;
+	padding-right: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+iframe{
+	width: 400px;
+	height: 300px;
+	margin-top: 50px;
+	margin: auto;
+	display: block;
+}

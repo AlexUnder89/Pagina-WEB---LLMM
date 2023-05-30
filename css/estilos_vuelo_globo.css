@@ -1,0 +1,116 @@
+.titulo_contenido{
+    background-color: beige;
+    color: rgb(0, 0, 0);
+    width: 80vw;
+    margin: auto;
+    display: block;
+}
+
+.titulo{
+    color: rgb(185, 79, 17);
+}
+
+#titulo_toledo_aire{
+    padding-top: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+
+span{
+    text-decoration: underline;
+    text-decoration-color: rgb(69, 62, 172);
+}
+
+#parrafo_titulo_toledo_aire{
+    text-align: center;
+    font-style: oblique;
+    padding-top: 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.div_izquierda{
+    width: 28vw;
+    float: left;
+    text-align: start;
+    padding-left: 15px;
+    color:#143b14;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 19px;
+
+}
+
+.div_derecha{
+    width: 49vw;
+    float: left;
+    text-align: justify;
+    padding-right: 15px;
+
+}
+
+.hr_globo{
+    width: 80vw;
+}
+
+.div_resto_pagina{
+    width: 80vw;
+}
+
+
+div>main>div>div>ul{
+    margin-left: 40px;
+    padding-bottom: 20px;
+}
+
+div>main>div>div>p{
+padding-left: 20px;
+padding-top: 20px;
+padding-bottom: 15px;
+padding-right: 20px;
+font-size: 20px;
+}
+
+
+div>main>div>div>h3{
+    text-align: center;
+    color: rgba(21, 94, 204, 0.514);
+    font-size: 30px;
+}
+
+#div_que_incluye{
+    color: rgba(21, 94, 204, 0.514);
+    padding-top:20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#h2_que_incluye{
+    font-size: 30px;
+}
+
+#foto_toledo_aire{
+    width: 80vw;
+}
+
+#parrafo_imagen{
+    color: cadetblue;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 5px;
+}
+
+#logo_globo{
+    margin: auto;
+    display: block;
+    padding-top: 20px;
+}
+
+.lista_que_incluye{
+    list-style: square;
+}
+
+main{
+    background-image: url("/img/p.jpeg");
+
+}

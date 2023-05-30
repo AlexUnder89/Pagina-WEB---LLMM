@@ -1,0 +1,82 @@
+main{
+    background-color:#E1EEDD;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-size: 30px;
+    color: rgb(13, 13, 104);
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 60px;
+}
+
+span{
+    background-color: rgb(16, 220, 176);
+}
+
+
+ body > main > div > div > p,
+ body > main > div > div > div >p{
+    font-size: 20px;
+    line-height: 20px;
+
+}
+
+a{
+    text-decoration: none;
+}
+.ancla_lista:visited{
+    color: green;
+}
+.ancla_lista:hover{
+    text-decoration: underline;
+    background-color: rgb(232, 242, 121);
+    color: rgb(246, 17, 17);
+}
+
+#foto_10_leyendas{
+    width: 450px;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+#div_main{
+    text-align:start;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#lista{
+    margin-left: 250px;
+    text-align: start;
+    font-size: x-large;
+}
+
+#nota{
+    list-style: none;
+    margin-top: 20px;
+}
+
+button > a {
+    color:black;
+}
+
+button{
+    width: 90px;
+    height: 45px;
+    border-radius: 25%;
+    background-color: chartreuse;
+    font-weight: 600;
+    font-size: medium;
+}
+
+.fa-regular{
+    color: crimson;
+    
+}
+
+
+
+

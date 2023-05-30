@@ -1,0 +1,68 @@
+/*foto/titulo cabecera */
+.cabecera{
+    height: 250px;
+    background-image:url("../img/toledo4.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+}
+
+#titulo{
+    color:#E1EEDD;
+    font-size: 80px;
+    text-shadow: 3px 3px rgb(26, 4, 4);
+    font-family:Lucida Handwriting;
+}
+/*fin foto/titulo cabecera */
+
+/*menu desplegable*/
+#id_div_menu{  /*para dar un color de fondo donde esta el menu */
+    background-color:#183A1D;
+    height: 50px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav{
+    margin: auto;
+    width: 900px;
+    height: 52px;
+    font-family: Lucida Sans;
+    font-size: 25px;
+    text-shadow: 2px 2px black;
+}
+
+body >div>div>div>ul>li>ul>li, body >div>div>div>ul{
+    list-style-type: none;
+}
+
+.menu li a {
+    background:#183A1D;
+    color:#e6e6d4;
+    text-decoration: none;
+    display:block;
+    padding: 10px 15px;
+}
+
+.menu li a:hover{
+    background-color: slategray;
+}
+
+.menu > li{
+    float:left;
+}
+
+.menu li ul {
+	display:none;
+	position:absolute;
+	min-width:140px;
+}
+
+.menu li:hover > ul {
+    display:block;
+}
+
+/*fin menu desplegable*/

@@ -1,0 +1,35 @@
+/* pie pagina*/
+footer{
+    background-color:#F0A04B;
+}
+#div_pie{
+    text-align: center;
+}
+
+.pie_float{
+    float: left;
+    width: 33.333%;
+    text-align: center;
+}
+
+.fa-youtube{
+    color:red;
+    background-color: aliceblue;
+}
+
+.fa-facebook{
+    color:#3b5998;
+    background-color: aliceblue;
+}
+
+.fa-square-whatsapp{
+    color:		lightgreen;
+    background-color: aliceblue;
+}
+
+.fa-twitter{
+    color:		rgb(69, 107, 231);
+    background-color: aliceblue;
+}
+
+/*fin pie pagina*/
